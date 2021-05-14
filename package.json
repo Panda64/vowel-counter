@@ -1,0 +1,11 @@
+{
+  "name": "vowel-counter",
+  "version": "1.0.0",
+  "description": "Counts the number of occurences of vowels in any given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaylen Schelb <jaylenschelb@yahoo.com>",
+  "license": "MIT"
+}
