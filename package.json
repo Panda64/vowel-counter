@@ -1,5 +1,5 @@
 {
-  "name": "vowel-counter",
+  "name": "@jaylens/vowel-counter",
   "version": "1.0.0",
   "description": "Counts the number of occurences of vowels in any given string",
   "main": "index.js",
